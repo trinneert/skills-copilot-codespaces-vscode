@@ -1,4 +1,4 @@
-//create web server - following was added by copilot
+//create web server
 var http = require('http');
 var express = require('express');
 var app = express();
